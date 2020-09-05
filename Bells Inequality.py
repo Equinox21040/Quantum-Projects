@@ -2,6 +2,9 @@ import cirq
 import matplotlib.pyplot as plt
 
 
+#Testing Bell's Inequality through Bell State Rotational Invariance
+
+
 qubits = cirq.LineQubit.range(2)
 angle = -1.0
 
