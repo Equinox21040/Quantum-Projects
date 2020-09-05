@@ -1,9 +1,6 @@
 import cirq
 import matplotlib.pyplot as plt
 
-probabilities = []
-values = []
-
 
 qubits = cirq.LineQubit.range(2)
 angle = -1.0
