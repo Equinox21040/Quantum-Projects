@@ -1,2 +1,2 @@
 # Quantum-Projects
-These are some of the few quantum circuits I have designed.
+These are some of the quantum circuits I have designed.
